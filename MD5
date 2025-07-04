@@ -1,8 +1,8 @@
-b206fd65116e14cc6707258cf0b178a9 *DESCRIPTION
+4a642be89f4e69e0490eee21fe67d271 *DESCRIPTION
 08a95711c3d52dab590c16bbcf885e6b *LICENSE
-cf0243bc4a109b58c3b44c1534e19e76 *NAMESPACE
-292764e38347a3f2d9c8607501105fe7 *R/functions.R
-f33239ffb840e991a0ad254718a40350 *README.md
+c175cd4f180c5bc456d2b07e0ab691f1 *NAMESPACE
+88763980e594050d0d13f01c7c439a3a *R/functions.R
+2647365318ff920d715078f9e73d7942 *README.md
 13db87109b1e901dfd53fe6a1845294c *man/compute_ci_with_specified_interval.Rd
 d787e1482e2c2781a5a26758504431e8 *man/construct_adj_r_squared.Rd
 43dc637ea2367ece00279c385a2e455f *man/construct_selection_event.Rd
@@ -16,4 +16,5 @@ fe3b046f911ee8b5aded3468accad83e *man/f.Rd
 9792524f3bf5f3ec6634b58369c3e8dc *man/fit_specified_size_subset_linear_models.Rd
 12f8022d6bfadbb3f689bcaaa01abe1e *man/pivot_with_specified_interval.Rd
 6aaee822720608ccec02e2c4e56b89f0 *man/postselp_value_specified_interval.Rd
+3df1614a410f1e404d48af9686d7712b *man/selective_inference.Rd
 77d620e9230df525628b023cbba1665b *man/solve_selection_event.Rd
